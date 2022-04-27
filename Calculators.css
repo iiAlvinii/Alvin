@@ -1,0 +1,643 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 994px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Brawler;
+  width: 259px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 62px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 348px;
+  background-image: url("images/80ed8e0480beb0f374b61e5ac44dd9d6921b0fa348cb099d41b58a8425dd0f26b2af92ef3db93166e1adac59a3a9c6d8cad79b617c8bdcf0a057b4_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 348px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 121px auto 0 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 365px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 139px auto 0 0;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.5em;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 365px;
+  background-image: url("images/Gas-tax.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 881px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 83px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 80px;
+    margin-bottom: 22px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 287px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 301px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 741px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 127px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 36px;
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1139px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 707px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -544px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 731px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -594px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: -150px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 350px;
+  background-image: url("images/Taxes.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 350px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 37px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 141px auto 0 0;
+}
+
+.u-section-2 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 360px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 60px 30px 31px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0 0 0 29px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 20px 0 0 29px;
+}
+
+.u-section-2 .u-btn-2 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 24px auto 0 0;
+}
+
+.u-section-2 .u-icon-2 {
+  font-size: 1.5em;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 360px;
+  background-image: url("images/shutterstock_tips.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 289px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 315px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 621px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: -127px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 342px;
+  background-image: url("images/130927122657-piggy-bank-savings-640x360.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 342px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 23px auto 0 0;
+}
+
+.u-section-3 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 330px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-3 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-btn-2 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 39px auto 0 0;
+}
+
+.u-section-3 .u-icon-2 {
+  font-size: 1.5em;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 330px;
+  background-image: url("images/real-estate-property-taxes-calculate-appeal-1068x713.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 282px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 282px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 272px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 216px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 208px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 788px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 324px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 312px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 566px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 204px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 196px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 384px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: -78px;
+  margin-bottom: 60px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 314px;
+  background-image: url("images/capital-gains-tax.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 314px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 12px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 20px auto 0 0;
+}
+
+.u-section-4 .u-icon-1 {
+  font-size: 1.5em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 750px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 259px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,215,0,1) 50%, rgba(0,0,0,1) 100%);
